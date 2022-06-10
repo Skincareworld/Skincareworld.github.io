@@ -3,7 +3,7 @@ layout: post
 title: How I've built my website 
 subtitle: quick summary
 categories: website
-tags: [Github, website]
+tags: [Github,website]
 ---
 
 ## How I have built my website
