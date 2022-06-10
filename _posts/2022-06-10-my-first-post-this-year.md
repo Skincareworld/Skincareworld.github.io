@@ -12,4 +12,4 @@ tags: [Github,website]
 2. I cloned  a repository from https://github.com/datamaunz
 3. I renamed the cloned repository Skincareworld.github.io
 4. I edited the files as described in the README.md
-5. Now i am writing my first post by following the advice i got from the README files
+5. Now I am writing my first post by following the advice i got from the README files
