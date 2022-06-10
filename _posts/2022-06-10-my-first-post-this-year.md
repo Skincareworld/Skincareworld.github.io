@@ -6,7 +6,7 @@ categories: website
 tags: [Github,website]
 ---
 
-## How I have built my website
+
 
 1. I created a Github account
 2. I cloned  a repository from https://github.com/datamaunz
